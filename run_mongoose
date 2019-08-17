@@ -1,0 +1,1 @@
+nohup /Users/bernard/mongodb/bin/mongod --dbpath=/Users/bernard/mongodb-data &>/dev/null &
